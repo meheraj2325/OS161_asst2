@@ -33,7 +33,7 @@
 
 #define THREADINLINE
 
-#define FIFO
+ #define FIFO
 // #define PRIORITY_SCHEDULING
 
 #include <types.h>
